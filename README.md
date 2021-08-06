@@ -1,8 +1,15 @@
 # Hi, I’m Amit Gupta
       I work as Senior Architect@Ericsson
-     
- - [Linked-In Profile](https://www.linkedin.com/in/amit-gupta-8a12775/ "Linked-In Profile")
- - [Email](amitgupta29@gmail.com)
+ # Let's Connect
+
+<a target="_blank" href="https://www.linkedin.com/in/amit-gupta-8a12775/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a target="_blank" href="mailto:amitgupta29@gmail.com" target="_blank">
+<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
       
 - I am a VOIP technology expert and have extensively worked upon SIP protocol based products like IPPhones/Session Border COntrollers/
 -	Adept at Data Structures, Algorithms and Design Patterns.
