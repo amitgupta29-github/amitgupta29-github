@@ -1,6 +1,7 @@
 # Hi, I’m Amit Gupta
-      I work as Senior Architect@Ericsson
- # Let's Connect
+      I work as Senior Software Engineer@Microsoft
+
+# Let's Connect
 
 <a target="_blank" href="https://www.linkedin.com/in/amit-gupta-8a12775/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -11,7 +12,7 @@
 </a>
 
       
-- I am a VOIP technology expert and have extensively worked upon SIP protocol based products like IPPhones/Session Border COntrollers/
+- I am a VOIP technology expert and have extensively worked upon SIP protocol based products like IPPhones/Session Border Controllers/
 -	Adept at Data Structures, Algorithms and Design Patterns.
 -	Have in depth expertise on Docker, Kubernetes, Ericsson ECCD, ADP Platform, Micro-services-based architecture. Experience in Designing, Developing and Deployment of Highly Available, Scalable Server-side solutions, catering to a live load of more than 8000 requests per sec. 
 -	Expertise in Performance tuning for multithreaded applications based on CPP and Java
